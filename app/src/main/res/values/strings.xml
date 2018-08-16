@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">叮云智能家居</string>
+    <string name="map_name">叮云智行</string>
+    <string name="device_admin">叮云安全自我保护</string>
+    <string name="device_admin_description">叮云安全防护超级管理员相关参数部署</string>
+</resources>
